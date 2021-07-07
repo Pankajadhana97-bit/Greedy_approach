@@ -30,7 +30,7 @@ int product(int n, vector<int> &arr)
 	}
 	// Here is the crux of the problem here we will have to return the result as per the need.
 	// condition 1 -> all the numbers are zero or all are non negative but contains zero
-	if (c_zero == n or (c_neg == 0 and c_zero > 1))
+	if (c_zero == n or (c_neg == 0 and c_zero > 0))
 	{
 		return 0;
 	}
