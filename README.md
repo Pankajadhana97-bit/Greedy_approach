@@ -4,7 +4,7 @@ Greedy Learning structure and it's questions
 # Problems in the array data structure 
 -----------------------------------------------------------------------------------------------------------
 1. Minimum product subset of an array (Done)
-2. Maximum product subset of an array
+2. Maximum product subset of an array (Done)
 3. Maximize array sum after k-negations | Set 1
 4. Maximize array sum after k-negations | Set 2
 5. Maximize the sum of arr(i)*i
