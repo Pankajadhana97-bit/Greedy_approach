@@ -28,11 +28,11 @@ int fun(int n, vector<int> &arr)
 			product *= arr[i];
 		}
 	}
-	if (zero_count == n)
+	if (zero_count+negs.size() ==n)
 	{
 		return 0;
 	}
-	if (negs.size() > 0 and !(negs.size() & 1))
+	else if (negs.size() > 0 and !(negs.size() & 1))
 	{
 		// no change
 		return product;
@@ -41,7 +41,7 @@ int fun(int n, vector<int> &arr)
 	{
 		return product / mx_neg;
 	}
-	return product;
+	return 0;
 }
 int main()
 {

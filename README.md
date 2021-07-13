@@ -5,7 +5,7 @@ Greedy Learning structure and it's questions
 -----------------------------------------------------------------------------------------------------------
 1. Minimum product subset of an array (Done)
 2. Maximum product subset of an array (Done)
-3. Maximize array sum after k-negations | Set 1
+3. Maximize array sum after k-negations | Set 1 (Done)
 4. Maximize array sum after k-negations | Set 2
 5. Maximize the sum of arr(i)*i
 6. Maximum sum of increasing order elements from n arrays
